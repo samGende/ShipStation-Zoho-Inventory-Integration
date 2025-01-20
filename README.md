@@ -10,8 +10,9 @@ Here you'll setup the webhook that informs Zoho an order has been shipped.
 2. Integration Partners 
 3. Click connect Webhooks
 4. Click Manage Settings
-5. Add a Webhook. Name your Webhook Zoho Inventory. Then select "On Orders Shipped" within the dropdown. 
-Enter the Zoho extension url:"https://f16hlos1sk.execute-api.us-east-2.amazonaws.com/default/shipstation_handler?org_id" in the url field. Here org_id should be the org_id given to on subscription.
+5. Add a Webhook. Name your Webhook Zoho Inventory.
+Then select "On Orders Shipped" within the dropdown. 
+Enter the Zoho extension url:"https://f16hlos1sk.execute-api.us-east-2.amazonaws.com/default/shipstation_handler?{org_id}" in the url field. Here org_id should be the org_id given to on subscription.
 6. Click Save
 
 ### API Access
