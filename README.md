@@ -27,7 +27,7 @@ Now you need to save ShipStations API access tokens to use later in the Zoho set
 
 ## Zoho Setup
 
-Finally you will upload all the Configuration Information with out Zoho Widget
+Finally you will upload all the Configuration Information within our Zoho Widget
 
 1. Click the ShipStation Inventory Icon on the right sidebar.
 2. Copy ShipStation API Key into ShipStation API Key field.
